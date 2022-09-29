@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Daenerys Targaryen",
+        "avatar":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/daenarys-1920.jpg?w=1200",
+        "email":"dtargaryen@gmail.com",
+        "salary": "45000",
+        "date": "1998-03-13",
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "name": "Jon Snow",
+        "avatar":"https://media.gq-magazine.co.uk/photos/62ac38f82da9f5f89888eba9/16:9/w_1280,c_limit/jon-snow-series-1200.jpeg",
+        "email":"jonsnow@gmail.com",
+        "salary": "25000",
+        "date": "1995-05-08",
+        "status": "Active"
+    },
+    {
+        "id": 3,
+        "name": "Tyrion Lannister",
+        "avatar": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/tyrion-lannister-1920.jpg?w=1200",
+        "email":"tlannister@gmail.com",
+        "salary": "27000",
+        "date": "1985-08-18",
+        "status": "Active"
+    },
+    {
+        "id": 4,
+        "name": "Khal Drogo",
+        "avatar":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/khal-drogo-1920.jpg?w=1200",
+        "email":"khaldrogo@gmail.com",
+        "salary": "17000",
+        "date": "1987-01-29",
+        "status": "Inactive"
+    },
+    {
+        "id": 5,
+        "name": "Arya Stark",
+        "avatar":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/arya-stark-1920.jpg?w=1200",
+        "email":"aryastark@gmail.com",
+        "salary": "29000",
+        "date": "2009-12-09",
+        "status": "Active"
+    },
+    {
+        "id": 6,
+        "name": "Sansa Stark",
+        "avatar":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/sansa-stark-1920.jpg?w=1200",
+        "email":"sansastark@gmail.com",
+        "salary": "22000",
+        "date": "2000-07-15",
+        "status": "Inactive"
+    },
+    {
+        "id": 7,
+        "name": "Missandei",
+        "avatar":"https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/missandei-1920.jpg?w=1200",
+        "email":"missandei@gmail.com",
+        "salary": "27000",
+        "date": "1998-11-01",
+        "status": "Active"
+    }
+]
